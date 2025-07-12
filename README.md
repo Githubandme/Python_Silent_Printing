@@ -108,9 +108,13 @@ Python 3.8 或更高版本 (Python 3.8 or higher)
 克隆或下载项目 (Clone or download the project)
 安装依赖 (Install dependencies):
 bash
+```
 pip install flask pystray pillow pywin32
+```
 或者使用requirements.txt (Or use requirements.txt):
 
 bash
+```
 pip install -r requirements.txt
+```
 确保PDFtoPrinter.exe在项目目录中 (Make sure PDFtoPrinter.exe is in the project directory)
